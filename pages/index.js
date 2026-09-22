@@ -9,13 +9,17 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Why I Chose My IT Specialization: </p>
-        <p>My chosen IT specialization is Web and Mobile Development. Ever since I was young, I've always been fascinated by the world of new, modern, and ever-growing technology.
-          I specifically chose this because I have noticed that both web and mobile are becoming the trend.
-          Not only that, but I've been exposed to and familiar with these domains, so it naturally intrigued me and the desire to learn.
-          Additionally, gaining knowledge and practical experience in these fields will greatly assist in eventually making my own website and/or mobile application.
-          These personal projects then I can utilize as projects to show my growing expertise and serve as proof of my technological knowledge.
-          I, however, won't stop there. As the technological world continues to evolve, so does myself.
+        <p>10 Things That Require Zero Talent</p>
+        <p> - Being on time </p>
+        <p> - Making An Effort </p>
+        <p> - Being High Energy </p>
+        <p> - Having a Positive Attitude </p>
+        <p> - Being Passionate </p>
+        <p> - Using Good Body Language </p>
+        <p> - Being Coachable </p>
+        <p> - Doing A Little Extra </p>
+        <p> - Being Prepared </p>
+        <p> - Having A Strong Work Ethic </p>
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
